@@ -1,0 +1,12 @@
+{
+	"Name": "Ellen",
+	"Age": 32,
+	"Contact": "23344333",
+	"Company": "RemoteEllen",
+	"Address": {
+		"City": "Pretoria",
+		"State": "Central",
+		"Country": "South Africa",
+		"Pincode": 410013
+	}
+}

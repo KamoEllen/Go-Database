@@ -1,0 +1,12 @@
+{
+	"Name": "Kamo",
+	"Age": 23,
+	"Contact": "23344333",
+	"Company": "RemoteKamo",
+	"Address": {
+		"City": "Pretoria",
+		"State": "Central",
+		"Country": "South Africa",
+		"Pincode": 410013
+	}
+}

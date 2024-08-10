@@ -1,0 +1,12 @@
+{
+	"Name": "Kamzo",
+	"Age": 25,
+	"Contact": "23344333",
+	"Company": "RemoteKamzo",
+	"Address": {
+		"City": "Cape Town",
+		"State": "Central",
+		"Country": "South Africa",
+		"Pincode": 410013
+	}
+}

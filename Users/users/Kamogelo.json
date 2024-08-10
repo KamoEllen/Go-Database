@@ -1,0 +1,12 @@
+{
+	"Name": "Kamogelo",
+	"Age": 27,
+	"Contact": "23344333",
+	"Company": "RemoteKamogelo",
+	"Address": {
+		"City": "Durban",
+		"State": "Central",
+		"Country": "South Africa",
+		"Pincode": 410013
+	}
+}
